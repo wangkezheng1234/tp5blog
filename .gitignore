@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+/.settings
+.buildpath
+.project
+/vendor
+*.log
+thinkphp
+.env
